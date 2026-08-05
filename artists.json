@@ -1,11 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T06:05:19.698Z",
+  "updatedAt": "2026-08-05T06:11:00.608Z",
   "artists": [
     {
       "id": "a_ava_max",
       "name": "AVA MAX",
       "image_url": "https://yt3.googleusercontent.com/Wkzv9YCztlpDUBuOwC8sV2lpFvkQh6_2bq_oDNIWfgNJMf7jxeLPi0NdaQ23fj_urR8ugsKi=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_ariana_grande",
+      "name": "Ariana Grande",
+      "image_url": "https://yt3.ggpht.com/hK5f1t-mCu2WrNg3WPSrS5rySMl-wT0z3wNZuIWvC3gPtM4glWNszP0LthUxBcZVxgWVs6rq=s48-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
