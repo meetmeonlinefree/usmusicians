@@ -2,7 +2,7 @@
   "id": "a_ariana_grande",
   "name": "Ariana Grande",
   "image_url": "https://yt3.ggpht.com/hK5f1t-mCu2WrNg3WPSrS5rySMl-wT0z3wNZuIWvC3gPtM4glWNszP0LthUxBcZVxgWVs6rq=s48-c-k-c0x00ffffff-no-rj",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Ariana_Grande_Side_To_Side.mp4",
       "publishedAt": "2026-08-05",
       "durationSec": 237
+    },
+    {
+      "id": "2",
+      "artistId": "a_ariana_grande",
+      "title": "Ariana Grande - thank u next",
+      "description": "Ariana Grande - thank u next",
+      "image_url": "https://i.ytimg.com/vi/gl1aHhXnN1k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBfKV6RzFtOfhz0Q14QYgpwu_fsNQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Ariana_Grande_thank_u_next.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 330
     }
   ]
 }
