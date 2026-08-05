@@ -2,7 +2,7 @@
   "id": "a_ava_max",
   "name": "AVA MAX",
   "image_url": "https://yt3.googleusercontent.com/Wkzv9YCztlpDUBuOwC8sV2lpFvkQh6_2bq_oDNIWfgNJMf7jxeLPi0NdaQ23fj_urR8ugsKi=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 5,
+  "videosCount": 6,
   "videos": [
     {
       "id": "1",
@@ -53,6 +53,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Ava_Max_So_Am_I.mp4",
       "publishedAt": "2026-08-05",
       "durationSec": 193
+    },
+    {
+      "id": "6",
+      "artistId": "a_ava_max",
+      "title": "Ava Max - Whatever",
+      "description": "Ava Max - Whatever",
+      "image_url": "https://i.ytimg.com/vi/ZDZiXmCl4pk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDkuNj_570Jx0hoBbLm1pkfX8of1w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Ava_Max_Whatever.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 188
     }
   ]
 }
