@@ -1,7 +1,16 @@
 {
   "page": 1,
-  "count": 6,
+  "count": 7,
   "items": [
+    {
+      "id": "7",
+      "title": "Ava Max - Not Your Barbie Girl",
+      "description": "Ava Max - Not Your Barbie Girl",
+      "image_url": "https://i.ytimg.com/vi/dvLm14-zDM8/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYQSBfKHIwDw==&rs=AOn4CLC9vgenEi_iuv_gfyOxsZxsnQWvxA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Ava_Max_Not_Your_Barbie_Girl.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 186
+    },
     {
       "id": "6",
       "title": "Ava Max - Whatever",
