@@ -2,7 +2,7 @@
   "id": "a_ava_max",
   "name": "AVA MAX",
   "image_url": "https://yt3.googleusercontent.com/Wkzv9YCztlpDUBuOwC8sV2lpFvkQh6_2bq_oDNIWfgNJMf7jxeLPi0NdaQ23fj_urR8ugsKi=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/umvideo/refs/heads/main/video/Ava_Max_Torn.mp4",
       "publishedAt": "2026-08-05",
       "durationSec": 200
+    },
+    {
+      "id": "3",
+      "artistId": "a_ava_max",
+      "title": "Ava Max - Who is Laughing Now",
+      "description": "Ava Max - Who is Laughing Now",
+      "image_url": "https://i.ytimg.com/vi/89S-RbszwJE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAmUkh7USjwppmvqMs17Y9dIWUmbQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Ava_Max_Who_s_Laughing_Now.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 196
     }
   ]
 }
