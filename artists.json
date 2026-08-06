@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T04:23:56.853Z",
+  "updatedAt": "2026-08-06T04:25:18.931Z",
   "artists": [
     {
       "id": "a_ava_max",
@@ -16,6 +16,11 @@
       "id": "a_dua_lipa",
       "name": "Dua Lipa",
       "image_url": "https://yt3.googleusercontent.com/c3upBFWLu55hnBvqncQS9ZEF_hkvHsNTQiB7m7ZYYavLFMzfyn9Bwo-1VF4HSPGo3G2EdwGtgWg=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_enisa_nikaj",
+      "name": "Enisa Nikaj",
+      "image_url": "https://yt3.googleusercontent.com/7XNhMOsD-mIp6Lix68TvvSlnoTmOcGXca_dxWgSkd7ozGY81uJ-F40Hi2OoeQt82oaHKS-7Wi2o=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
