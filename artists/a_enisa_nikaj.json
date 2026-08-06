@@ -2,7 +2,7 @@
   "id": "a_enisa_nikaj",
   "name": "Enisa Nikaj",
   "image_url": "https://yt3.googleusercontent.com/7XNhMOsD-mIp6Lix68TvvSlnoTmOcGXca_dxWgSkd7ozGY81uJ-F40Hi2OoeQt82oaHKS-7Wi2o=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Enisa_Pretty_Please.mp4",
       "publishedAt": "2026-08-06",
       "durationSec": 157
+    },
+    {
+      "id": "3",
+      "artistId": "a_enisa_nikaj",
+      "title": "Enisa - Count My Blessings",
+      "description": "Enisa - Count My Blessings",
+      "image_url": "https://i.ytimg.com/vi/gSSu-wXo3q8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMpKvCzPJl2huxE6KGuqtz-cRyJQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Enisa_Count_My_Blessings.mp4",
+      "publishedAt": "2026-08-06",
+      "durationSec": 143
     }
   ]
 }
