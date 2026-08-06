@@ -2,7 +2,7 @@
   "id": "a_dua_lipa",
   "name": "Dua Lipa",
   "image_url": "https://yt3.googleusercontent.com/c3upBFWLu55hnBvqncQS9ZEF_hkvHsNTQiB7m7ZYYavLFMzfyn9Bwo-1VF4HSPGo3G2EdwGtgWg=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Dua_Lipa_Break_My_Heart.mp4",
       "publishedAt": "2026-08-06",
       "durationSec": 169
+    },
+    {
+      "id": "2",
+      "artistId": "a_dua_lipa",
+      "title": "Dua Lipa - Houdini",
+      "description": "Dua Lipa - Houdini",
+      "image_url": "https://i.ytimg.com/vi/suAR1PYFNYA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPgZSLq3qomIlVcroIfnyPBjw2bA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Dua_Lipa_Houdini.mp4",
+      "publishedAt": "2026-08-06",
+      "durationSec": 183
     }
   ]
 }
