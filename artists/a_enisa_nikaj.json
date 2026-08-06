@@ -2,6 +2,17 @@
   "id": "a_enisa_nikaj",
   "name": "Enisa Nikaj",
   "image_url": "https://yt3.googleusercontent.com/7XNhMOsD-mIp6Lix68TvvSlnoTmOcGXca_dxWgSkd7ozGY81uJ-F40Hi2OoeQt82oaHKS-7Wi2o=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_enisa_nikaj",
+      "title": "ENISA - Blame It On Me",
+      "description": "ENISA - Blame It On Me",
+      "image_url": "https://i.ytimg.com/vi/UV-2mw6cxYM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSlFvLcKneoXSyz0sIiGqimGCfsg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/ENISA_Blame_It_On_Me.mp4",
+      "publishedAt": "2026-08-06",
+      "durationSec": 201
+    }
+  ]
 }
