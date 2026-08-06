@@ -2,6 +2,17 @@
   "id": "a_dua_lipa",
   "name": "Dua Lipa",
   "image_url": "https://yt3.googleusercontent.com/c3upBFWLu55hnBvqncQS9ZEF_hkvHsNTQiB7m7ZYYavLFMzfyn9Bwo-1VF4HSPGo3G2EdwGtgWg=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_dua_lipa",
+      "title": "Dua Lipa - Break My Heart",
+      "description": "Dua Lipa - Break My Heart",
+      "image_url": "https://i.ytimg.com/vi/Nj2U6rhnucI/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBkX1qTlKYt4UuydA8iTVoZhlioLA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/usvideo/refs/heads/main/video/Dua_Lipa_Break_My_Heart.mp4",
+      "publishedAt": "2026-08-06",
+      "durationSec": 169
+    }
+  ]
 }
